@@ -22,17 +22,14 @@ Welcome to my GitHub profile! I have over **9.3 years of experience** in the fie
 
 - Consistently recognized and appreciated by clients for quality deliverables and attention to detail.
 
-## 🌟 Most Starred Repositories
+## 🌟 My Github Work
 
 Here are some of my most starred repositories:
 
 | Repository | Stars | Description |
 |------------|-------|-------------|
-| [Repo Name 1](https://github.com/username/repo1) | ![Stars](https://img.shields.io/github/stars/username/repo1?style=social) | Brief description of the repository. |
-| [Repo Name 2](https://github.com/username/repo2) | ![Stars](https://img.shields.io/github/stars/username/repo2?style=social) | Brief description of the repository. |
-| [Repo Name 3](https://github.com/username/repo3) | ![Stars](https://img.shields.io/github/stars/username/repo3?style=social) | Brief description of the repository. |
-
-*Replace `username` with your GitHub username and the repository names with your actual repository names and descriptions.*
+| [Selenium UI Tests](https://github.com/renuka2593/selenium-ui-tests) | ![Stars](https://img.shields.io/github/stars/username/repo1?style=social) | Brief description of the repository. |
+| [Rest Assured](https://github.com/renuka2593/rest-assured-examples) | ![Stars](https://img.shields.io/github/stars/username/repo2?style=social) | This repository contains examples of REST API testing using Java, TestNG, and Rest Assured. It demonstrates how to perform basic GET, POST , PUT , PATCH , DELETE requests, deserialize response bodies into data model classes, and utilize data providers for parameterized testing. |
 
 ## 🔗 Connect With Me
 
