@@ -11,11 +11,7 @@ Welcome to my GitHub profile! I have over **9.3 years of experience** in the fie
 - **Agile Methodologies**: Understanding and practical experience with **Scrum**.
 - **QA Anchor**: Leading diverse testing activities, including:
   - Test Automation
-  - Test Execution and Design
-  - Regression Testing
-  - Integration Testing
-  - Operational Acceptance Testing (OAT)
-  - Test Strategy and Test Plan documentation
+  - Test Strategy for functional and non functional testing
 - **Unix Commands**: Strong command over Unix for efficient operations.
 
 ## 🏆 Achievements
