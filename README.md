@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I have over **9.3 years of experience** in the fie
 
 Here are some of my most starred repositories:
 
-| Repository | Stars | Description |
-|------------|-------|-------------|
+| Repository  | Description |
+|-------------|-------------|
 | [Selenium UI Tests](https://github.com/renuka2593/selenium-ui-tests)  | Brief description of the repository. |
 | [Rest Assured](https://github.com/renuka2593/rest-assured-examples)   | This repository contains examples of REST API testing using Java, TestNG, and Rest Assured. It demonstrates how to perform basic GET, POST , PUT , PATCH , DELETE requests, deserialize response bodies into data model classes, and utilize data providers for parameterized testing. |
 | [RobotFramework](https://github.com/renuka2593/robot-framework-complete) | This project is a comprehensive automation suite built using Robot Framework, designed to facilitate end-to-end testing across multiple domains: UI, API, and Database. |
